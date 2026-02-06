@@ -11,3 +11,5 @@ I am currently working on an Web App which is hosted on Vercel using the next.js
 The idea behind the app is to create a way of collecting trading cards from different generes.
 <img width="920" height="579" alt="image" src="https://github.com/user-attachments/assets/7d54bbb6-8734-43b6-b720-f702a04c2a5f" />
 
+most recent version: https://card-gen-omega.vercel.app/
+
