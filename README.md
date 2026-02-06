@@ -6,10 +6,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TUGRAZFABI&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TUGRAZFABI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TUGRAZFABI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Most recent projects: 
+I am currently working on an Web App which is hosted on Vercel using the next.js framework.
+The idea behind the app is to create a way of collecting trading cards from different generes.
+<img width="920" height="579" alt="image" src="https://github.com/user-attachments/assets/7d54bbb6-8734-43b6-b720-f702a04c2a5f" />
 
----
-[![](https://visitcount.itsvg.in/api?id=TUGRAZFABI&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
