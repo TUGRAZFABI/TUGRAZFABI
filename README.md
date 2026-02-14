@@ -9,9 +9,8 @@
 # Most recent projects: 
 I am currently working on an Web App which is hosted on Vercel using the next.js framework.
 The idea behind the app is to create a way of collecting trading cards from different generes.
-<img width="1188" height="861" alt="image" src="https://github.com/user-attachments/assets/479af310-5e93-4f79-9015-ce07984c60cc" />
-The landing page features a short description of the whole app and an typical navigation bar.
+<img width="920" height="579" alt="Landing page of the app" src="https://github.com/user-attachments/assets/7d54bbb6-8734-43b6-b720-f702a04c2a5f" />
 
-
-most recent version: https://card-gen-omega.vercel.app/
+Most recent version 🕧: https://card-gen-omega.vercel.app/
+Documentation 📖: https://github.com/TUGRAZFABI/card_gen
 
